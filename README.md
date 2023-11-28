@@ -1,6 +1,7 @@
 # Module10
 # Code is located as crypto_investments.ipynb
-#The high-level steps for this Challenge are as follows:
+
+The high-level steps for this Challenge are as follows:
 Import the data (provided in the starter code).
 Prepare the data  (provided in the starter code).
 Find the best value for k by using the original data.
